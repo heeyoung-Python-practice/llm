@@ -148,6 +148,7 @@ llm_venv
 kor_nsmc_w2v
 eng_w2v
 OpinosisDataset1.0
+*.mp3
 
 # Spyder project settings
 .spyderproject
