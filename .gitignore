@@ -149,6 +149,8 @@ kor_nsmc_w2v
 eng_w2v
 OpinosisDataset1.0
 *.mp3
+*.db
+*.pdf
 
 # Spyder project settings
 .spyderproject
