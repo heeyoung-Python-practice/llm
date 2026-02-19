@@ -143,6 +143,7 @@ llm_venv
 *.xml
 *.gz
 *.txt
+*.png
 *.keras
 *.vocab
 kor_nsmc_w2v
@@ -151,10 +152,12 @@ OpinosisDataset1.0
 *.mp3
 *.db
 *.pdf
-
+wandb/
+Llama-VARCO-8b-news2stock-analyzer-4bit
 # Spyder project settings
 .spyderproject
 .spyproject
+*.safetensors
 
 # Rope project settings
 .ropeproject
